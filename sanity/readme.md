@@ -1,0 +1,2 @@
+- [wom/san_tm/](https://github.com/wommy/sanity-technomad/tree/dev)
+- [wom/san_tm/marx_nue](https://github.com/wommy/sanity-technomad/tree/marx_nue)
